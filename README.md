@@ -43,22 +43,13 @@ You will find the following 1-min resultion 24-hour diversified EV profiles in t
 
 Below are the corresponding figures.
 
-|Weekday Level 1 Profiles |
-|-------------------------------------|
-|![weekday-level1](https://user-images.githubusercontent.com/65996811/138799692-4230d701-b787-4dad-b1f2-d8956f08c55e.png)|
+![weekday-level1](https://user-images.githubusercontent.com/65996811/138799692-4230d701-b787-4dad-b1f2-d8956f08c55e.png)
 
-|Weekday Level 2 Profiles |
-|-------------------------------------|
-|![weekday-level2](https://user-images.githubusercontent.com/65996811/138798261-0d72b1f1-36de-4ec8-9f62-3d9031c05e54.png)|
+![weekday-level2](https://user-images.githubusercontent.com/65996811/138798261-0d72b1f1-36de-4ec8-9f62-3d9031c05e54.png)
 
-|Weekend Level 1 Profiles |
-|-------------------------------------|
-|![weekend-level1](https://user-images.githubusercontent.com/65996811/138798279-0a21941f-c98a-4be7-9ede-b2b3af1c5ddd.png)|
+![weekend-level1](https://user-images.githubusercontent.com/65996811/138798279-0a21941f-c98a-4be7-9ede-b2b3af1c5ddd.png)
 
-|Weekend Level 2 Profiles |
-|-------------------------------------|
-|![weekend-level2](https://user-images.githubusercontent.com/65996811/138798303-2a9f0894-7980-48c0-9d9d-f77919e80605.png)|
-
+![weekend-level2](https://user-images.githubusercontent.com/65996811/138798303-2a9f0894-7980-48c0-9d9d-f77919e80605.png)
 
 ## Credits
 Jing Zhu (jing.maviszhu@student.unimelb.edu.au)
