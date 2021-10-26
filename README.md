@@ -45,19 +45,19 @@ Below are the corresponding figures.
 
 |Weekday Level 1 Profiles |
 |-------------------------------------|
-|![weekday-level1](https://user-images.githubusercontent.com/65996811/138627152-5c7714dc-d63c-450c-8f1c-820c961ca90e.png)|
+|![weekday-level1](https://user-images.githubusercontent.com/65996811/138798248-8bbf1de9-d005-4ee9-a7a6-5710fbd5f3ee.png)|
 
 |Weekday Level 2 Profiles |
 |-------------------------------------|
-|![weekday-level2](https://user-images.githubusercontent.com/65996811/138627169-6ffdc765-0989-48a4-aee1-45e800c29966.png)|
+|![weekday-level2](https://user-images.githubusercontent.com/65996811/138798261-0d72b1f1-36de-4ec8-9f62-3d9031c05e54.png)|
 
 |Weekend Level 1 Profiles |
 |-------------------------------------|
-|![weekend-level1](https://user-images.githubusercontent.com/65996811/138627213-8d707fa2-5139-4ca1-8785-f9c4c98cb30d.png)|
+|![weekend-level1](https://user-images.githubusercontent.com/65996811/138798279-0a21941f-c98a-4be7-9ede-b2b3af1c5ddd.png)|
 
 |Weekend Level 2 Profiles |
 |-------------------------------------|
-|![weekend-level2](https://user-images.githubusercontent.com/65996811/138627230-47289673-cc89-4eb5-bae3-1d680c12b024.png)|
+|![weekend-level2](https://user-images.githubusercontent.com/65996811/138798303-2a9f0894-7980-48c0-9d9d-f77919e80605.png)|
 
 
 ## Credits
