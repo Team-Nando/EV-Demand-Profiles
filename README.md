@@ -45,7 +45,7 @@ Below are the corresponding figures.
 
 |Weekday Level 1 Profiles |
 |-------------------------------------|
-|![weekday-level1](https://user-images.githubusercontent.com/65996811/138798248-8bbf1de9-d005-4ee9-a7a6-5710fbd5f3ee.png)|
+|![weekday-level1](https://user-images.githubusercontent.com/65996811/138799692-4230d701-b787-4dad-b1f2-d8956f08c55e.png)|
 
 |Weekday Level 2 Profiles |
 |-------------------------------------|
