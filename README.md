@@ -23,16 +23,16 @@ More information about the EV Integration project can be found on the website be
 
 ##	Daily Plug-in Factor
 The Profiles are separated within sub folders of the "Diversified EV Profiles" folder by either:
-* with a daily plug in factor
-* without a daily plug in factor
+* with a Daily Plug-in Factor (70%)
+* without a Daily Plug-in Factor
 
 As reported in the NSW Electric Vehicle Owners Survey, EVs are charged only 3 to 4 days of the week. From the perspective of the distribution networks, this means that the number of EVs charging in a particular day is always less than the actual EV penetration, i.e., not all the EVs in a given area will have a charging event every day.
 
-Based on the assumption that EVs in Australia will be charged up to 4 days out of the 7 days in the week, and that every day has the same charging probability, the cumulative distribution function can be used to calculate the probability of having an X (or less) number of EVs charging on the same day. For a 99% probability, it is found that 70% or less of the existing EVs will have a charging event on the same day. The value is referred as the daily plug-in factor.  
+Based on the assumption that EVs in Australia will be charged up to 4 days out of the 7 days in the week, and that every day has the same charging probability, the cumulative distribution function can be used to calculate the probability of having an X (or less) number of EVs charging on the same day. For a 99% probability, it is found that 70% or less of the existing EVs will have a charging event on the same day. The value is referred as the Daily Plug-in Factor.  
 
-Therefore, to create accurate representative diversified EV profiles, a daily plug-in factor of 70% will was used when creating the EV profile for the folder of "with a daily plug in factor". 
+Therefore, to create accurate representative diversified EV profiles, a Daily Plug-in Factor of 70% will was used when creating the EV profile for the folder of "with a Daily Plug-in Factor". 
 
-The folder of "without a daily plug in factor" assumes all EVs are plugged in that day, and users may wish to apply their own daily plug in factor.
+The folder of "without a Daily Plug-in Factor" assumes all EVs are plugged in that day, and users may wish to apply their own daily plug in factor.
 
 ## Creation of Diversified EV Profiles
 * [x] Studies involving a distribution transformer with 100 EVs. The median and the 75th percentile are extracted from 100 samples each representing the average demand of a group of 100 individual 1-min resolution 24-hour EV profiles. This is done for each of the four groupds (level 1/level 2 and weekday/weekend). The figures below show, for each of the four groups, the 100 samples in transparent colour (green for level 1 and blue for level 2), the median (in yellow), the 75th percentile (in light blue). For comparison purposes, the corresponding diversified profile for 1,200 EVs (in red) is also included.
