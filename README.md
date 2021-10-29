@@ -54,7 +54,7 @@ You will find the following 1-min resultion 24-hour diversified EV profiles in t
 * Weekend - Level 2 - Diversified (75th percentile) of 100 EVs
 * Weekend - Level 2 - Diversified (Average) of 1,200 EVs
 
-Below are the corresponding figures.
+Below are the corresponding figures (with a Daily Plug-in Factor of 70%).
 
 ![weekday-level1](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/weekday-level1.png?raw=true)
 
