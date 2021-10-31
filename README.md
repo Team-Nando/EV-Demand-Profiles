@@ -53,7 +53,7 @@ In this repository, you will find the following 1-min resultion 24-hour diversif
 * Weekend - Level 2 - Diversified (75th percentile) of 100 EVs
 * Weekend - Level 2 - Diversified (Average) of 1,200 EVs
 
-Below are the corresponding figures **with a Daily Plug-in Factor of 70%**.
+### Figures of profiles *with a Daily Plug-in Factor of 70%*
 
 ![weekday-level1](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/with%20a%20Daily%20Plug-in%20Factor%20(70%25)/weekday-level1.png?raw=true)
 
@@ -62,6 +62,16 @@ Below are the corresponding figures **with a Daily Plug-in Factor of 70%**.
 ![weekend-level1](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/with%20a%20Daily%20Plug-in%20Factor%20(70%25)/weekend-level1.png?raw=true)
 
 ![weekend-level2](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/with%20a%20Daily%20Plug-in%20Factor%20(70%25)/weekend-level2.png?raw=true)
+
+### Figures of profiles *without Daily Plug-in Factor*
+
+![weekday-level1](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/without%20Daily%20Plug-in%20Factor/weekday-level1.png?raw=true)
+
+![weekday-level2](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/without%20Daily%20Plug-in%20Factor/weekday-level2.png?raw=true)
+
+![weekend-level1](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/without%20Daily%20Plug-in%20Factor/weekend-level1.png?raw=true)
+
+![weekend-level2](https://github.com/Team-Nando/EV-Demand-Profiles/blob/main/Images/without%20Daily%20Plug-in%20Factor/weekend-level2.png?raw=true)
 
 ## Credits
 Jing Zhu (jing.maviszhu@student.unimelb.edu.au)
